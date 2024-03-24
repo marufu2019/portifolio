@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+     background: black;
+     color: #fff;
+}
+span{
+    color: #d61d58;
+} 
+#header{
+    width: 100%;
+    height: 100vh;
+    /* background-image: url(port.jpg);
+    background-size: cover;
+    background-position: center; */
+}
+.container{
+    padding: 10px 10px;
+}
